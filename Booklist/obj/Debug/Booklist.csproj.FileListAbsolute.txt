@@ -1,0 +1,72 @@
+C:\Users\Homcom Computers\Desktop\Windows phone app\kiokos.net\Project\Booklist\Booklist\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Homcom Computers\Desktop\Windows phone app\kiokos.net\Project\Booklist\Booklist\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Homcom Computers\Desktop\Windows phone app\kiokos.net\Project\Booklist\Booklist\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Homcom Computers\Desktop\Windows phone app\kiokos.net\Project\Booklist\Booklist\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Homcom Computers\Desktop\Windows phone app\kiokos.net\Project\Booklist\Booklist\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Homcom Computers\Desktop\Windows phone app\kiokos.net\Project\Booklist\Booklist\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Homcom Computers\Desktop\Windows phone app\kiokos.net\Project\Booklist\Booklist\Bin\Debug\Booklist.dll
+C:\Users\Homcom Computers\Desktop\Windows phone app\kiokos.net\Project\Booklist\Booklist\Bin\Debug\Booklist.pdb
+C:\Users\Homcom Computers\Desktop\Windows phone app\kiokos.net\Project\Booklist\Booklist\Bin\Debug\AppManifest.xaml
+C:\Users\Homcom Computers\Desktop\Windows phone app\kiokos.net\Project\Booklist\Booklist\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Homcom Computers\Desktop\Windows phone app\kiokos.net\Project\Booklist\Booklist\Bin\Debug\Booklist_Debug_AnyCPU.xap
+C:\Users\Homcom Computers\Desktop\Windows phone app\kiokos.net\Project\Booklist\Booklist\obj\Debug\App.g.cs
+C:\Users\Homcom Computers\Desktop\Windows phone app\kiokos.net\Project\Booklist\Booklist\obj\Debug\MainPage.g.cs
+C:\Users\Homcom Computers\Desktop\Windows phone app\kiokos.net\Project\Booklist\Booklist\obj\Debug\Booklist.g.resources
+C:\Users\Homcom Computers\Desktop\Windows phone app\kiokos.net\Project\Booklist\Booklist\obj\Debug\Booklist.Resources.AppResources.resources
+C:\Users\Homcom Computers\Desktop\Windows phone app\kiokos.net\Project\Booklist\Booklist\obj\Debug\Booklist.csproj.GenerateResource.Cache
+C:\Users\Homcom Computers\Desktop\Windows phone app\kiokos.net\Project\Booklist\Booklist\obj\Debug\Booklist.dll
+C:\Users\Homcom Computers\Desktop\Windows phone app\kiokos.net\Project\Booklist\Booklist\obj\Debug\Booklist.pdb
+C:\Users\Homcom Computers\Desktop\Windows phone app\kiokos.net\Project\Booklist\Booklist\obj\Debug\XapCacheFile.xml
+C:\Users\Homcom Computers\Desktop\Windows phone app\kiokos.net\Project\Booklist\Booklist\obj\Debug\List.g.cs
+C:\Users\Homcom Computers\Desktop\Windows phone app\kiokos.net\Project\Booklist\Booklist\obj\Debug\AddBooks.g.cs
+C:\Users\Homcom Computers\Desktop\Windows phone app\kiokos.net\Project\Booklist\Booklist\obj\Debug\CreateAccount.g.cs
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Windows phone app\kiokos.net\Project\Booklist\Booklist\obj\Debug\App.g.cs
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Windows phone app\kiokos.net\Project\Booklist\Booklist\obj\Debug\AddBooks.g.cs
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Windows phone app\kiokos.net\Project\Booklist\Booklist\obj\Debug\CreateAccount.g.cs
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Windows phone app\kiokos.net\Project\Booklist\Booklist\obj\Debug\List.g.cs
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Windows phone app\kiokos.net\Project\Booklist\Booklist\obj\Debug\MainPage.g.cs
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Windows phone app\kiokos.net\Project\Booklist\Booklist\obj\Debug\Booklist.g.resources
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Windows phone app\kiokos.net\Project\Booklist\Booklist\obj\Debug\Booklist.Resources.AppResources.resources
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Windows phone app\kiokos.net\Project\Booklist\Booklist\obj\Debug\Booklist.csproj.GenerateResource.Cache
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Windows phone app\kiokos.net\Project\Booklist\Booklist\obj\Debug\Booklist.dll
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Windows phone app\kiokos.net\Project\Booklist\Booklist\obj\Debug\Booklist.pdb
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Windows phone app\kiokos.net\Project\Booklist\Booklist\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Windows phone app\kiokos.net\Project\Booklist\Booklist\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Windows phone app\kiokos.net\Project\Booklist\Booklist\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Windows phone app\kiokos.net\Project\Booklist\Booklist\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Windows phone app\kiokos.net\Project\Booklist\Booklist\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Windows phone app\kiokos.net\Project\Booklist\Booklist\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Windows phone app\kiokos.net\Project\Booklist\Booklist\Bin\Debug\Booklist.dll
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Windows phone app\kiokos.net\Project\Booklist\Booklist\Bin\Debug\Booklist.pdb
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Windows phone app\kiokos.net\Project\Booklist\Booklist\Bin\Debug\AppManifest.xaml
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Windows phone app\kiokos.net\Project\Booklist\Booklist\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Windows phone app\kiokos.net\Project\Booklist\Booklist\Bin\Debug\Booklist_Debug_AnyCPU.xap
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Windows phone app\kiokos.net\Project\Booklist\Booklist\obj\Debug\XapCacheFile.xml
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Windows phone app\kiokos.net\Project\Booklist\Booklist\obj\Debug\EditBook.g.cs
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Windows phone app\kiokos.net\Project\Booklist\Booklist\obj\Debug\Viewbook.g.cs
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Windows phone app\kiokos.net\Project\Booklist\Booklist\obj\Debug\about.g.cs
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Year 3.2\Windows phone app\Project\Project\Booklist\Booklist\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Year 3.2\Windows phone app\Project\Project\Booklist\Booklist\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Year 3.2\Windows phone app\Project\Project\Booklist\Booklist\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Year 3.2\Windows phone app\Project\Project\Booklist\Booklist\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Year 3.2\Windows phone app\Project\Project\Booklist\Booklist\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Year 3.2\Windows phone app\Project\Project\Booklist\Booklist\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Year 3.2\Windows phone app\Project\Project\Booklist\Booklist\Bin\Debug\Booklist.dll
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Year 3.2\Windows phone app\Project\Project\Booklist\Booklist\Bin\Debug\Booklist.pdb
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Year 3.2\Windows phone app\Project\Project\Booklist\Booklist\Bin\Debug\AppManifest.xaml
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Year 3.2\Windows phone app\Project\Project\Booklist\Booklist\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Year 3.2\Windows phone app\Project\Project\Booklist\Booklist\Bin\Debug\Booklist_Debug_AnyCPU.xap
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Year 3.2\Windows phone app\Project\Project\Booklist\Booklist\obj\Debug\App.g.cs
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Year 3.2\Windows phone app\Project\Project\Booklist\Booklist\obj\Debug\about.g.cs
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Year 3.2\Windows phone app\Project\Project\Booklist\Booklist\obj\Debug\AddBooks.g.cs
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Year 3.2\Windows phone app\Project\Project\Booklist\Booklist\obj\Debug\CreateAccount.g.cs
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Year 3.2\Windows phone app\Project\Project\Booklist\Booklist\obj\Debug\EditBook.g.cs
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Year 3.2\Windows phone app\Project\Project\Booklist\Booklist\obj\Debug\List.g.cs
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Year 3.2\Windows phone app\Project\Project\Booklist\Booklist\obj\Debug\MainPage.g.cs
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Year 3.2\Windows phone app\Project\Project\Booklist\Booklist\obj\Debug\Viewbook.g.cs
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Year 3.2\Windows phone app\Project\Project\Booklist\Booklist\obj\Debug\Booklist.g.resources
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Year 3.2\Windows phone app\Project\Project\Booklist\Booklist\obj\Debug\Booklist.Resources.AppResources.resources
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Year 3.2\Windows phone app\Project\Project\Booklist\Booklist\obj\Debug\Booklist.csproj.GenerateResource.Cache
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Year 3.2\Windows phone app\Project\Project\Booklist\Booklist\obj\Debug\Booklist.dll
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Year 3.2\Windows phone app\Project\Project\Booklist\Booklist\obj\Debug\Booklist.pdb
+C:\Users\Homcom Computers\Desktop\Notes & tutorials\Year 3.2\Windows phone app\Project\Project\Booklist\Booklist\obj\Debug\XapCacheFile.xml
